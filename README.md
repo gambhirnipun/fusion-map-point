@@ -3,7 +3,7 @@
 ## Demos
 - http://gambhirnipun.github.io/fusion-map-point/index.html
 - and index_iframe.html embedded in test page http://gambhirnipun.github.io/fusion-map-point/iframe_test.html
-- with Google Fusion Table points of CT schools https://www.google.com/fusiontables/DataSource?docid=1FMjVRb16OqlkeodL7onaQ5A7jamtpSY0TmHaa-WQ#rows:id=1
+- with Google Fusion Table points of Tution Centre https://fusiontables.google.com/data?docid=1UsZX-EV3VfPvMv0eJWj7IWSjNweR9K7WDu4okWPs#map:id=3
 
 ## Create your own
 - See tutorials in Fusion Map template section of *Data Visualization For All* book http://DataVizForAll.org
